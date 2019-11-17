@@ -1,0 +1,187 @@
+
+
+
+
+Full List of Features
+==========================
+v1.25 – Added Filtering by Features, IMPROVED SPEED AND PERFORMANCE!
+Added Payment for Bookings – Now users need to Pay before they successfully book a Property.
+Added support for multiple Currencies – Now admin can add unlimited currencies, and users can easily switch from one currency 
+to another with a single click of a button. Every day the exchange rate is updated automatically from Yahoo Finance.
+Added Withdrawal option for Owners – When they have enough active balance they can request a Withdrawal so they get their earnings.
+Added Host Commissions – For every Booking that is made on Owner’s Property the Admin gets % that is defined as host commission.
+Added Settings for Owners Payments and Withdrawals
+Added FAQ Page for Owners – There is an Help page in Owner’s Dashboard now where you can explain Owners how do the system works.
+Social Login – Now your visitors can login via Google or Facebook easily and enjoy our site!
+Added Meta Tags (SEO) for Property/Services.
+Added alias (SEO Keyword) field when editing Property/Service/Category/Locations.
+Added Custom Background for every Category/Location/Property/Service – Every Category/Location/Property and Service can now have 
+custom Header Background.
+Added Share Buttons on Property/Service/Blog Post.
+Featured Locations for Homepage are now set by simple switch on the Location Page in admin panel.
+View Statistics about your website – Latest Visits, Properties, Members, Bookings.
+View Latest Bookings and Purchases.
+Charts with statistics about your website.
+Properties – type of posts that has so much information. You can post Property Information like Size, Rooms, Guest Number …, add Images, select Category and Location, add Address, pin marker to the Map, add Contact information, add multilanguage content … You can make a Property Featured and it will have more exposure than the default ones. Easily edit/activate/deactivate your Property, also you can delete them one by one or mass delete selected Properties. You can search and filter Properties.
+When someone makes a Booking for your Property those days are automatically disabled for the next user, but there is also an option for Pre-Booked dates, which are dates for your Properties that will be disabled when an user tries to Book. This is useful if someone made a Booking via phone, email, or you are having a maintenance at our Property and it wont work for while …
+Services – Similar to Properties, Services are type of post with can have so much information. The main difference with the Properties is that Services dont have Property Information (size, rooms, ...), but have Business Hours, which you can use to tell users when your Service is open for business. Services can be Restaurants, Clubs, Museums, Theaters, Cinemas … Everything other than Property.
+Categories – Categorize your Properties/Services so users can easily find them on your website. Categories have an map icon, so when you for example open the half-map page, the Service will be shown on the map with its category’s map icon.
+Locations – Same as Categories, except the only difference is that they dont have map icon.
+Features – Add Features for your Property/Service. These can be something like Parking, WiFi, Internet, TV … You get the point.
+Bookings – Manage your Bookings with ease. You can reject or confirm (the user will get an email of confirmation/rejection) your bookings. You can also see information about the user which made the booking.
+Reviews – Manage user reviews for the Properties/Services – approve them or delete them.
+Pages – Manage Static Pages – make an About Us, Privacy Policy, Terms of Use page or anything else which fits your needs.
+Blog – You can add latest news, promotions, or anything you like to inform your users. You can disable blog in settings.
+Users – Manage users on your website – Edit/Approve/Delete/Disable them, or upgrade them to Owners(hosts).
+Owners – Manage Owners(hosts) on your website – Edit/Approve/Delete/Disable them. You can also see a list of their Properties/Purchases/Activities/Services with just one click.
+Requests – Every single request that needs your attention is listed here so you dont have to wonder around and see if anything required your action.
+Settings
+Site Settings – Enter your Site name, description, add your logo, edit currency and measurement unit, add API keys for Google Maps, add Google Analytics, reCaptcha, add your contact information and address …
+Property/Service/User/Owner Settings- Manage settings for your Properties/Services/Owner/Users.
+Language/Strings settings – Manage Languages on your site, translate strings, export them so you can translate them easily and import back ..
+Currencies – Add Multiple Currencies for your website
+Design/Style settings – Manage your Home page(disable/enable sections, edit their settings), edit your Footer, change section backgrounds, change colors on your website …
+Payment Settings – Manage packages for Owners, host commission for Bookings, how much do packages for Featured Property/Service cost … Enable disable Payment Gateways, enter their API key, enable/disable sandbox.(read more about Point System)
+Owners have Active and Pending Balance – When someone makes a Booking on Owner’s Property that Owner gets Pending balance. N-days after that Booking’s Check In (N is defined in Admin Panel), Pending Balance goes to Active Balance.
+Owners can make request for Withdrawal – When they have some active balance users can make request for Withdrawal so they can get their earnings.
+Approve all Properties/Services posted by Owner before they are visible.
+Points System – Users add Points on your website via any of the available Payment Methods, and then they pay for everything on your website with their points. Currently Owners can spend their Points on entrance fee, and making an Property/Service featured.
+Same as in the Admin Panel, Owners have access to their Properties/Services and can manage them easily, also they can confirm/reject their bookings.
+Admin is fully in control of what Owners post, and can enable/disable settings via Admin Panel.
+Full screen section with search form so users can easily find what they search for.
+Featured Location section – you can expose the most searched locations here with beautiful pictures.
+Featured Properties section – a slider with Featured Properties (you can also enable all properties here).
+Quick Search section – you can add any ‘guide’ about searching/using your website here.
+Latest Blog section – your latest blog.
+Explore (half-map) – An interactive half-map page with Google Map and your Properties/Services so users can easily find what they search for.
+Filter – Users are able to filter for search results with many options like Category/Location/Check In/Check Out date, price range and much more …
+Locations/Categories – User are able to visit the Category/Location page so they quickly get what they are searching form.
+Contact – User are able to fill a simple contact form and send you a query with a question/suggestion … Also, on the contact page there will be your Company’s information and Location on a Google Map.
+Language Picker – Users can easily switch language of your content with a single click.
+Footer with Widgets – In the footer there are Menus and information about your website.
+Users Account – Users can register and they will be able to visit an My Account section. There, they can see their Bookings, change their information etc. Also, they can send an request to became Owners.
+Service Page – When users opens an Service they will see all images from that Service, information about that service, location on map, features, make an review …
+Properties Page – Same as for the Services, except on the Properties there will be an Booking form, so when users fill it they will be able to Book your Property.
+Custom Backgrounds for every Category/Location/Property/Service on frontend
+...
+Demo, Documentation, Support
+Admin Panel:
+http://demo.booksicms.com/admin
+Username: admin@booksicms.com
+Password: booksi
+
+Owners(Hosts) Panel:
+http://demo.booksicms.com/owner
+Username: owner@booksicms.com
+Password: booksi
+
+Users:
+http://demo.booksicms.com
+Username: user@booksicms.com
+Password: booksi
+
+Documentation: http://booksicms.com/documentation
+Support: http://booksicms.com/support
+
+More information: http://booksicms.com
+Technical Information
+Booksi is built with Laravel, which means that your website will be super fast, reliable, and most importantly SAFE. In order to install Booksi, you will need an domain, hosting which at least the following (most of the hosts nowadays have these requirements):
+PHP > = 7.0
+OpenSSL PHP Extension.
+PDO PHP Extension.
+Mbstring PHP Extension.
+Tokenizer PHP Extension.
+XML PHP Extension.
+PHP FileInfo Extension.
+Changelog
+Version 1.27 - April 9
+[Fix] - Updating an property's featured status from edit page,
+[Fix] - Currencies don't get updated when making a change, 
+[Fix] - Owner's properties create/edit page show error,
+[Fix] - Filter small fixes on sorting, 
+[Fix] - Messages couldn't be sent without reCaptcha,
+[Fix] - Search on the homepage error,
+-------------------------------
+Version 1.26b - March 13
+[Fix] Installation demo data small fix.
+-------------------------------
+Version 1.26 - February 19
+[Fix] Search on the homepage sometimes had thrown an error.
+[Fix] Removed duplicate strings from the database
+[Fix] Manually added booked dates sometimes didnt work on the Property page.
+[Fix] Messaging system small fix
+[Fix] Transfer of pending to active balance for the hosts (owner) fix
+-------------------------------
+Version 1.25 - December 22
+[New] CODE REFACTORED!! Improved speed and performance!!
+[New] Properties/Services are now a partial so developers can edit them easily in one place only instead of changing every file where they appear.
+[New] Filtering by features - You can now filter Properties by amenities (features). This can be disabled/enabled from Property Settings.
+[New] Owners are redirected to Login page and a message is shown if their account is not activated yet, instead of the 404 page not found that was the case until now.
+[New] Property Name is taken from the current instead of default language now when a Booking is made.
+[Fix] Account update on frontend sometimes shows error because of username wrong validation.
+[Fix] User in Admin dashboard fixes - sometimes not able to delete if they are not connected to any Property/Service.
+[Fix] Location page on frontend improved - added some missing input fields.
+[Fix] Fixes in the Property Dates.
+[Fix] Some admin dashboard small fixes.
+[Fix] Similar Properties showing prices of the main property instead of their own.
+[Fix] Owners cant change their logo
+[Fix] Property dates were not removed when you remove a property - now they are removed.
+[Fix] Error when registering a user if you have Welcome email enabled
+[Fix] Email template for messages missing in the last update
+[Fix] Added some missing strings
+-------------------------------
+Version 1.22 - November 5
+[Fix] - Yahoo currency auto update doesnt work anymore since they blocked their free service. Now you have to manually set exchange rates for your currencies.
+-------------------------------
+Version 1.21 - October 5
+[New] - Added reCaptcha for the Messaging system to prevent spamming.
+[Fix] - Currency sometimes didnt change on the payment page.
+-------------------------------
+Version 1.2 - October 4
+[New] - Messaging is now available through the users. Users can contact Property Owners and Owners/Admin can reply back to their messages.
+[New] - Owners (Hosts) can now register directly from the Register Page. There is a toggle in Owner Settings to enable/disable this.
+[New] - Added Flash Messages when doing some actions
+[New] - You can now save Social Networks as blank values and they wont show on the website.
+[Fix] - State not showing in footer.
+[Fix] - Firefox not handling disabled input fields
+[Fix] - Owner Account Editing fix
+[Fix] - Sometimes categories in Admin Dashboard show JSON data instead of the Name
+[Fix] - Category/Location order field if blank error showed up.
+-------------------------------
+Version 1.13 - August 3
+- Added an 'Add your Property Button', which shows up an modal for an upgrade request. Can be disabled in 'Design Settings'
+- Locations/Categories on the menu are ordered by 'order' field which can be set while creating/editing the Category/Location
+- Mail for Owner/Admin when a booking is made
+- Mail for User when he is upgraded to Owner
+- [Fix] Some FireFox fixes for Admin Dashboard onclick on working on the icons.
+- [Fix] Sometimes Load More button for Services has staying above the newly loaded Services
+-------------------------------
+Version 1.12 - July 12
+- Fixed some templating issues
+-------------------------------
+Version 1.11 - June 28, 2017
+- Added Social Login,
+- Added Favicon Changing in the Site Settings,
+- Small fixes in css and javascript
+--------------------------------
+Version 1.1 - June 19, 2017
+- Added Payment for Bookings
+- Added support for multiple Currencies
+- Added Withdrawal option for Owners
+- Added Host Commissions
+- Added Settings for Owners Payments and Withdrawals
+- Added FAQ Page for Owners
+- Added Meta Tags (SEO) for Property/Services
+- Added alias field when editing Property/Service/Category/Locations
+- Added Custom Background for every Category/Location/Property/Service
+- Added Share Buttons on Property/Service/Blog Post
+- Featured Locations for Homepage are now set by simple switch on the Location Page in admin panel
+- Fixes for Language Selector
+- Other small fixes
+--------------------------------
+Version 1.01 - June 06, 2017
+-- Language switcher not working sometimes when the cms doesnt recognize which language is your browser using.
+-- Added 1 missing string in the installation.
+--------------------------------
+Version 1.0 - May 30, 2017
+-- Initial Release

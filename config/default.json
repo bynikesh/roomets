@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@compared-aqjre.mongodb.net/test?retryWrites=true&w=majority",
+  "JWTSecret": "youcantguessmysecret"
+}
